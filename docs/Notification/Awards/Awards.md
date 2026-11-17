@@ -218,12 +218,12 @@ cards:
         class: tag-category
       - text: 本科生
         class: tag-target
-  - ddl: 11月8日24:00前
-    title: 【本科评奖评优】基础学科拔尖学生奖学金
-    detail: 【本科评奖评优】（面向23图灵班）关于申报2025-2026学年基础学科拔尖学生奖学金的通知
-    href: http://cspo.zju.edu.cn/2026/1106/c27183a3223875/page.htm
+  - ddl: 10月21日18：00前，eta申请
+    title: 【本科生资助】“娃哈哈·春风助学”培优助学金
+    detail: 【本科生资助】关于开展2026-2027学年“娃哈哈·春风助学”培优助学金新申请工作的通知
+    href: http://cspo.zju.edu.cn/2026/1019/c27184a3216255/page.htm
     tags: 
-      - text: 奖学金
+      - text: 助学金
         class: tag-category
       - text: 本科生
         class: tag-target

@@ -286,7 +286,21 @@ cards:
     href: https://mp.weixin.qq.com/s/fWnCHtzGmN-RUI-9bmZz3Q
     tags:    
       - text: 宣讲会
-        class: tag-category   
+        class: tag-category 
+  - ddl: 10月19日 周一 18:30 - 19:30 （GMT +8:00）
+    title: 中科院工业人工智能研究所2027研究生招生宣讲
+    detail: 中科院工业人工智能研究所2027研究生招生宣讲改为线上钉钉会议，有意愿的同学晚上可以参会，会议号：628681487，可通过浏览器直接入会，无需下载钉钉。入会链接：
+    href: https://meeting.dingtalk.com/j/BzR7ACiSa6N
+    tags:    
+      - text: 招生宣讲
+        class: tag-category    
+  - ddl: 10月23日 14：00-16：00
+    title: 北京中关村学院2026专项营宣讲会
+    detail: 北京中关村学院2026专项营宣讲会，地点：浙江大学紫金港校区研究生教育综合楼107室，主讲人：戴蓓洁（中关村人工智能研究院副院长、科研部管理办主任），咨询电话：010-82821018，咨询邮箱admission@bza.edu.cn，通讯地址：北京市海淀区大牛房二环路17号院C5号北京中关村学院
+    href: 
+    tags:    
+      - text: 宣讲会
+        class: tag-category          
   
 ---
 
