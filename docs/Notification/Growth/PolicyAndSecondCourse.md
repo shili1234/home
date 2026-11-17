@@ -280,6 +280,13 @@ cards:
     tags:    
       - text: 主题分享
         class: tag-category   
+  - ddl: 2026年10月28日（周三）19：30
+    title: 牛津大学展望计划注册访问生项目宣讲会
+    detail: 各位同学好，牛津大学展望计划注册访问生项目宣讲会将于2026年10月28日（周三）19：30在线上腾讯会议举行，主要面向全日制在读本科生，有意向出国深造的同学。
+    href: https://mp.weixin.qq.com/s/fWnCHtzGmN-RUI-9bmZz3Q
+    tags:    
+      - text: 宣讲会
+        class: tag-category   
   
 ---
 
