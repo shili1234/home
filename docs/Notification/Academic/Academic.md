@@ -64,7 +64,16 @@ cards:
     href: 
     tags: 
       - text: 补选
-        class: tag-category               
+        class: tag-category  
+  - ddl: 
+    title: 秋学期考试周应考准备
+    detail: 各位同学，明天开始即为秋学期考试周，请各位做好应考准备，在教务网上查询相关考试信息，确定考试科目和时间、考场。考试周作业多DDL紧压力大，请各位同学们劳逸结合、规律作息，合理安排复习时间，同时特别提醒：严格遵守考场纪律，严禁将手机、智能手表带入考场！若有违规、作弊情况，学校将予以严肃处理。违纪处理办法可阅读推文。祝大家考试顺利，取得好成绩~若有任何不开心或压力大、想要倾诉的时候，欢迎找辅导员@赵宇飞(赵宇飞)@石奇(石奇)以及心理老师@曾照轩(曾照轩)聊聊，我们都会认真倾听大家的烦恼，也会努力空出时间来当面和同学们畅聊
+    href: https://mp.weixin.qq.com/s/V8kYqKNd6nzXQUjyuFrb-w
+          https://mp.weixin.qq.com/s/V8kYqKNd6nzXQUjyuFrb-w
+    tags: 
+      - text: 考试周
+        class: tag-category
+    
 ---
 
 !!! note 通知
@@ -72,8 +81,6 @@ cards:
     1. 如有疑问，大一大二同学请联系李晓老师（教学管理科 88206140 紫金港西1-413）大三大四同学请联系张传华老师（教学管理科 87952008 曹光彪主楼103）
     2. 请及时关注各年级钉钉群通知和院网通知
 
-
-{% import 'macros/card_macro.html' as card_macro %}
 
 {{ card_macro.render_cards(cards) }}
 

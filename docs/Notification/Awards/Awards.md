@@ -200,6 +200,33 @@ cards:
         class: tag-category
       - text: 本科生
         class: tag-target
+  - ddl: 11月8日24:00前
+    title: 【本科评奖评优、资助】教育基金会飞跃・飞翔教育发展基金项目系列奖助项目评选
+    detail: 【本科评奖评优、资助】关于2026年教育基金会飞跃・飞翔教育发展基金项目系列奖助项目评选的通知
+    href: http://cspo.zju.edu.cn/2026/1106/c27183a3223876/page.htm
+    tags: 
+      - text: 奖助项目
+        class: tag-category
+      - text: 本科生
+        class: tag-target
+  - ddl: 11月8日24:00前
+    title: 【本科生资助】秋冬学期校外设助学金、院外设助学金（新申请）评选工作
+    detail: 【本科生资助】关于开展2026-2027学年秋冬学期校外设助学金、院外设助学金（新申请）评选工作的通知
+    href: http://cspo.zju.edu.cn/2026/1106/c27184a3223882/page.htm
+    tags: 
+      - text: 助学金
+        class: tag-category
+      - text: 本科生
+        class: tag-target
+  - ddl: 11月8日24:00前
+    title: 【本科评奖评优】基础学科拔尖学生奖学金
+    detail: 【本科评奖评优】（面向23图灵班）关于申报2025-2026学年基础学科拔尖学生奖学金的通知
+    href: http://cspo.zju.edu.cn/2026/1106/c27183a3223875/page.htm
+    tags: 
+      - text: 奖学金
+        class: tag-category
+      - text: 本科生
+        class: tag-target
 ---
 
 ---
