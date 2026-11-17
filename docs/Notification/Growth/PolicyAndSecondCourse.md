@@ -273,6 +273,13 @@ cards:
     tags: 
       - text: 形策2
         class: tag-category
+  - ddl: 2026年11月16日（周一）18:30
+    title: AI未来已来——李开复博士主题分享
+    detail: 【启真夜话】主题：AI未来已来——李开复博士主题分享，欢迎感兴趣的同学报名参加，地点：主图书馆一楼报告厅。
+    href: https://mp.weixin.qq.com/s/jOJ-cjwZLO9E-g6rO53TPQ
+    tags:    
+      - text: 主题分享
+        class: tag-category   
   
 ---
 
